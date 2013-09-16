@@ -1,0 +1,5 @@
+[ "ecto": {:git, "git://github.com/elixir-lang/ecto.git", "752379feaeb237daa6c3f65483d7edea7c50cca6", []},
+  "gpb": {:git, "git://github.com/tomas-abrahamsson/gpb.git", "66cd4db0b131910145079632fa95c0cd889b1f45", []},
+  "poolboy": {:git, "git://github.com/devinus/poolboy.git", "91b68de43d49bcccf2631016febda70b20d7aa75", []},
+  "protobuf": {:git, "git://github.com/azukiapp/elixir-protobuf.git", "7831053bb59c14359d91b6fea6e22fabd7104ac4", [{:tag, "v0.0.2"}]},
+  "rethinkdb": {:git, "git://github.com/azukiapp/elixir-rethinkdb.git", "e532be2a6ffbe9877acce630583f9b1167a3dbc5", []} ]
