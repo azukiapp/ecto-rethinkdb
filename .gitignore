@@ -1,4 +1,5 @@
 /ebin
 /deps
+/tmp
 erl_crash.dump
 *.ez
